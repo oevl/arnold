@@ -7,3 +7,4 @@ Hooking up the JavaScript XML-RPC package to WordPress via the MetaWeblog API. A
 
 - [What is XML-RPC?](http://xmlrpc.com/)
 - [Is there a way to post to WordPress from an external app? · Issue #206 · scripting/Scripting-News](https://github.com/scripting/Scripting-News/issues/206)
+- [scripting/xml-rpc: XML-RPC client and server in JavaScript.](https://github.com/scripting/xml-rpc)
